@@ -10,7 +10,7 @@ import (
 
 	"strings"
 
-	"pragprog.com/rggo/interacting/todo"
+	"todo"
 )
 
 // Default file name

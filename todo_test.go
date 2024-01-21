@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"pragprog.com/rggo/interacting/todo"
+	"todo"
 )
 
 // TestAdd tests the Add method of the List type
