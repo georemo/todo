@@ -1,3 +1,3 @@
-module todo
+module pragprog.com/rggo/interacting/todo
 
-go 1.21.5
+go 1.16
