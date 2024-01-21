@@ -10,7 +10,7 @@ import (
 
 	"strings"
 
-	"todo"
+	"github.com/georemo/todo"
 )
 
 // Default file name

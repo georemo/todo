@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"todo"
+	"github.com/georemo/todo"
 )
 
 // TestAdd tests the Add method of the List type
